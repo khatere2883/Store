@@ -22,18 +22,18 @@ namespace Endpoint.Site
             Configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
+        public IConfiguration Configuration { get; set; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            string connectionString = "Data Source=.;initial catalog=Storedb;Integrated Security=True;";
+            services.AddDbContext<DataBaseContext>(options =>
+                options.UseSqlServer(connectionString));
 
-            
-            string connectionstring = "Data Source=.;initial catalog=Storedb;Integrated Security=True;";
-            services.AddEntityFrameworkSqlServer()
-                .AddDbContext<DataBaseContext>(Option => Option.UseSqlServer(connectionstring));
-            services.AddScoped<IDataBaseContext, DataBaseContext>();
-            
+            services.AddScoped<IDataBaseContext>(provider =>
+                provider.GetRequiredService<DataBaseContext>());
+
             services.AddControllersWithViews();
         }
 
@@ -63,11 +63,11 @@ namespace Endpoint.Site
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
-                
-                
+
+
                 endpoints.MapControllerRoute(
-                    name : "areas",
-                    pattern : "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+                    name: "areas",
+                    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
                 );
             });
         }

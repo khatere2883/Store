@@ -863,19 +863,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Yousof\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\RiderProjects\\Store\\Store.Persistence\\Store.Persistence.csproj",
+      "projectUniqueName": "E:\\Projects\\temp\\Store\\Store.Persistence\\Store.Persistence.csproj",
       "projectName": "Store.Persistence",
-      "projectPath": "C:\\Users\\User\\RiderProjects\\Store\\Store.Persistence\\Store.Persistence.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\RiderProjects\\Store\\Store.Persistence\\obj\\",
+      "projectPath": "E:\\Projects\\temp\\Store\\Store.Persistence\\Store.Persistence.csproj",
+      "packagesPath": "C:\\Users\\Yousof\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\temp\\Store\\Store.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Yousof\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -887,11 +887,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\User\\RiderProjects\\Store\\Store.Application\\Store.Application.csproj": {
-              "projectPath": "C:\\Users\\User\\RiderProjects\\Store\\Store.Application\\Store.Application.csproj"
+            "E:\\Projects\\temp\\Store\\Store.Application\\Store.Application.csproj": {
+              "projectPath": "E:\\Projects\\temp\\Store\\Store.Application\\Store.Application.csproj"
             },
-            "C:\\Users\\User\\RiderProjects\\Store\\Store.Domain\\Store.Domain.csproj": {
-              "projectPath": "C:\\Users\\User\\RiderProjects\\Store\\Store.Domain\\Store.Domain.csproj"
+            "E:\\Projects\\temp\\Store\\Store.Domain\\Store.Domain.csproj": {
+              "projectPath": "E:\\Projects\\temp\\Store\\Store.Domain\\Store.Domain.csproj"
             }
           }
         }
@@ -900,7 +900,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net5.0": {
@@ -929,7 +935,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -938,7 +945,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

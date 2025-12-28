@@ -10,3 +10,16 @@ C:\Users\User\RiderProjects\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.csp
 C:\Users\User\RiderProjects\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.dll
 C:\Users\User\RiderProjects\Store\Store.Domain\obj\Debug\net5.0\ref\Store.Domain.dll
 C:\Users\User\RiderProjects\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.pdb
+E:\Projects\temp\Store\Store.Domain\bin\Debug\net5.0\Store.Domain.deps.json
+E:\Projects\temp\Store\Store.Domain\bin\Debug\net5.0\Store.Domain.dll
+E:\Projects\temp\Store\Store.Domain\bin\Debug\net5.0\Store.Domain.pdb
+E:\Projects\temp\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.csproj.AssemblyReference.cache
+E:\Projects\temp\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\temp\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.AssemblyInfoInputs.cache
+E:\Projects\temp\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.AssemblyInfo.cs
+E:\Projects\temp\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\temp\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.sourcelink.json
+E:\Projects\temp\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.dll
+E:\Projects\temp\Store\Store.Domain\obj\Debug\net5.0\refint\Store.Domain.dll
+E:\Projects\temp\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.pdb
+E:\Projects\temp\Store\Store.Domain\obj\Debug\net5.0\ref\Store.Domain.dll

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Yousof\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\RiderProjects\\Store\\Store.Infrastructure\\Store.Infrastructure.csproj",
+      "projectUniqueName": "E:\\Projects\\temp\\Store\\Store.Infrastructure\\Store.Infrastructure.csproj",
       "projectName": "Store.Infrastructure",
-      "projectPath": "C:\\Users\\User\\RiderProjects\\Store\\Store.Infrastructure\\Store.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\RiderProjects\\Store\\Store.Infrastructure\\obj\\",
+      "projectPath": "E:\\Projects\\temp\\Store\\Store.Infrastructure\\Store.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Yousof\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\temp\\Store\\Store.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Yousof\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -38,7 +38,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net5.0": {
@@ -49,7 +55,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

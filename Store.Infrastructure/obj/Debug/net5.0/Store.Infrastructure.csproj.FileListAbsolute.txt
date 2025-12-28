@@ -10,3 +10,16 @@ C:\Users\User\RiderProjects\Store\Store.Infrastructure\obj\Debug\net5.0\Store.In
 C:\Users\User\RiderProjects\Store\Store.Infrastructure\obj\Debug\net5.0\Store.Infrastructure.dll
 C:\Users\User\RiderProjects\Store\Store.Infrastructure\obj\Debug\net5.0\ref\Store.Infrastructure.dll
 C:\Users\User\RiderProjects\Store\Store.Infrastructure\obj\Debug\net5.0\Store.Infrastructure.pdb
+E:\Projects\temp\Store\Store.Infrastructure\bin\Debug\net5.0\Store.Infrastructure.deps.json
+E:\Projects\temp\Store\Store.Infrastructure\bin\Debug\net5.0\Store.Infrastructure.dll
+E:\Projects\temp\Store\Store.Infrastructure\bin\Debug\net5.0\Store.Infrastructure.pdb
+E:\Projects\temp\Store\Store.Infrastructure\obj\Debug\net5.0\Store.Infrastructure.csproj.AssemblyReference.cache
+E:\Projects\temp\Store\Store.Infrastructure\obj\Debug\net5.0\Store.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\temp\Store\Store.Infrastructure\obj\Debug\net5.0\Store.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\temp\Store\Store.Infrastructure\obj\Debug\net5.0\Store.Infrastructure.AssemblyInfo.cs
+E:\Projects\temp\Store\Store.Infrastructure\obj\Debug\net5.0\Store.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\temp\Store\Store.Infrastructure\obj\Debug\net5.0\Store.Infrastructure.sourcelink.json
+E:\Projects\temp\Store\Store.Infrastructure\obj\Debug\net5.0\Store.Infrastructure.dll
+E:\Projects\temp\Store\Store.Infrastructure\obj\Debug\net5.0\refint\Store.Infrastructure.dll
+E:\Projects\temp\Store\Store.Infrastructure\obj\Debug\net5.0\Store.Infrastructure.pdb
+E:\Projects\temp\Store\Store.Infrastructure\obj\Debug\net5.0\ref\Store.Infrastructure.dll
